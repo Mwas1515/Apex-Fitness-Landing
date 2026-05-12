@@ -31,9 +31,41 @@ A professional, high performance landing page designed for a modern fitness cent
 [Screenshot](assets/images/Screenshot%20(7).png)
 [Screenshot](assets/images/Screenshot%20(8).png)
 
+## Getting Started
+
+Prerequisites
+Any modern web browser (Chrome, Firefox, Safari, or Edge).
+
+
 ## Setup & Installation
 To run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Mwas1515/Apex-Fitness-Landing.git](https://github.com/Mwas1515/Apex-Fitness-Landing.git)
+   git clone [https://github.com/Mwas1515/Apex-Fitness-Landing.git]
+2. **Open the project:**
+Simply open the index.html file in your preferred browser to view the current build.
+
+
+## Project Structure
+apex-fitness-landing/
+├── index.html
+├── css/
+│   └── style.css
+├── assets/
+│   ├── images/
+│   └── video/
+├── js/
+│   └── script.js
+└── README.md
+
+## Future Roadmap
+
+* **Dynamic Integration:** Migrating to React and Tailwind CSS for enhanced component reusability.
+* **Backend Integration:** Implementing a Django-based management system for dynamic property listings.
+* **Map Integration:** Adding interactive map views for property locations.
+* **Admin Dashboard:** A secure portal for real estate agents to manage their portfolio.
+
+## License
+
+This project is licensed under the MIT License.
