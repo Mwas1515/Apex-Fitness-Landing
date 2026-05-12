@@ -31,6 +31,28 @@ A professional, high performance landing page designed for a modern fitness cent
 [Screenshot](assets/images/Screenshot%20(7).png)
 [Screenshot](assets/images/Screenshot%20(8).png)
 
+## Collaboration & Contribution
+
+We welcome contributions from the community and the team to help make LuxRent the gold standard for real estate platforms.
+
+## How to Contribute
+
+1. **Fork the Repository:** Create your own copy of the project to work on.
+
+2. **Create a Feature Branch:**
+bash
+git checkout -b feature/AmazingFeature
+
+
+3. **Commit Your Changes:** bash 
+    git commit -m 'Add some AmazingFeature'
+
+4.  **Push to the Branch:**
+bash
+    git push origin feature/AmazingFeature
+
+5.  **Open a Pull Request:** Describe your changes and submit for review.
+
 ## Getting Started
 
 Prerequisites
@@ -48,16 +70,14 @@ Simply open the index.html file in your preferred browser to view the current bu
 
 
 ## Project Structure
+```text
 apex-fitness-landing/
-├── index.html
-├── css/
-│   └── style.css
 ├── assets/
 │   ├── images/
 │   └── video/
-├── js/
-│   └── script.js
+├── index.html
 └── README.md
+```
 
 ## Future Roadmap
 
@@ -73,3 +93,4 @@ Denis Mwangi Wambui
 ## License
 
 This project is licensed under the MIT License.
+
