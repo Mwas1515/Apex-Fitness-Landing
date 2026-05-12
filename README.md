@@ -66,6 +66,10 @@ apex-fitness-landing/
 * **Map Integration:** Adding interactive map views for property locations.
 * **Admin Dashboard:** A secure portal for real estate agents to manage their portfolio.
 
+## Credits
+
+Denis Mwangi Wambui
+
 ## License
 
 This project is licensed under the MIT License.
