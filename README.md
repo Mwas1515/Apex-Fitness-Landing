@@ -22,7 +22,6 @@ A professional, high performance landing page designed for a modern fitness cent
 
 ## Technologies Used
 - **HTML5:** Semantic structure.
-- **CSS3:** Flexbox/Grid for mobile first responsiveness.
 - **Git/GitHub:** Version control with feature based branching.
 - **GitHub Pages:** Deployment and hosting.
 
@@ -38,4 +37,3 @@ To run this project locally:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Mwas1515/Apex-Fitness-Landing.git](https://github.com/Mwas1515/Apex-Fitness-Landing.git)
-   
